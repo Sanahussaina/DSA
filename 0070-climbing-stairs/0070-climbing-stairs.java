@@ -6,7 +6,7 @@ class Solution {
         int prev1 = 3;
         int prev2 = 2;
         int curr=0;
-        for(int i=3;i<n;i++){
+        for(int i=4;i<=n;i++){
             curr=prev1+prev2;
             prev2=prev1;
             prev1=curr;
