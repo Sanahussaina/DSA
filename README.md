@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanahussaina/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sanahussaina/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sanahussaina/DSA/tree/master/0189-rotate-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sanahussaina/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sanahussaina/DSA/tree/master/0013-roman-to-integer) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
