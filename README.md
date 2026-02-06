@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sanahussaina/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sanahussaina/DSA/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Sanahussaina/DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
