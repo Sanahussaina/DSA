@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sanahussaina/DSA/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanahussaina/DSA/tree/master/0485-max-consecutive-ones) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sanahussaina/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sanahussaina/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
