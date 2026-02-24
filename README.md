@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanahussaina/DSA/tree/master/0485-max-consecutive-ones) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sanahussaina/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sanahussaina/DSA/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sanahussaina/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sanahussaina/DSA/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
 | ------- |
