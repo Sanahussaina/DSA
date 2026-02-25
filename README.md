@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanahussaina/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sanahussaina/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Sanahussaina/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanahussaina/DSA/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sanahussaina/DSA/tree/master/0485-max-consecutive-ones) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sanahussaina/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sanahussaina/DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sanahussaina/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -107,10 +110,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sanahussaina/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
