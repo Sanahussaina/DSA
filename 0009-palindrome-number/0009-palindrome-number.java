@@ -1,14 +1,14 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x<0||x%10==0&&x!=0){
-            return false;
-        }
-        int hn=0;
-        while(x>hn){
-            hn=hn*10+x%10;
-            x=x/10;
-        }
-        return x==hn||x==hn/10;
+        // if(x<0||x%10==0&&x!=0){
+        //     return false;
+        // }
+        // int hn=0;
+        // while(x>hn){
+        //     hn=hn*10+x%10;
+        //     x=x/10;
+        // }
+        // return x==hn||x==hn/10;
 
 
 
@@ -25,5 +25,22 @@ class Solution {
             return true;
         }
         return false;*/
+
+        String s = String.valueOf(x);
+        // int i=0;
+        // int j=s.length()-1;
+        // while(i<j){
+        //     if(s.charAt(i++)!=s.charAt(j--)){
+        //         return false;
+        //     }
+        // }
+        // return true;
+        StringBuilder sb = new StringBuilder(s);
+        sb.reverse();
+        String s2 = sb.toString();
+        if(s.equals(s2)){
+            return true;
+        }
+        return false;
     }
 }
