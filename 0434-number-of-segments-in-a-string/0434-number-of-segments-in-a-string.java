@@ -1,6 +1,9 @@
 class Solution {
-    public int countSegments(String s) {        
-        //return s.split(" ").length;
+    public int countSegments(String s) { 
+        // s=s.trim();
+        // if(s.length()==0)
+        //     return 0;       
+        // return s.split(" ").length;
 
         int count = 0;
         for(int i=0;i<s.length();i++){
