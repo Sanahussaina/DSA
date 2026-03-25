@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sanahussaina/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sanahussaina/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanahussaina/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sanahussaina/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanahussaina/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sanahussaina/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sanahussaina/DSA/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Sanahussaina/DSA/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanahussaina/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sanahussaina/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sanahussaina/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
