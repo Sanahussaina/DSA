@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sanahussaina/DSA/tree/master/0485-max-consecutive-ones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sanahussaina/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Sanahussaina/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1512-number-of-good-pairs](https://github.com/Sanahussaina/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Sanahussaina/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sanahussaina/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanahussaina/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Sanahussaina/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Sanahussaina/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sanahussaina/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sanahussaina/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sanahussaina/DSA/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Sanahussaina/DSA/tree/master/0342-power-of-four) |
+| [1512-number-of-good-pairs](https://github.com/Sanahussaina/DSA/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/Sanahussaina/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Sanahussaina/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sanahussaina/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
