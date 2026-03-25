@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sanahussaina/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sanahussaina/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2325-decode-the-message](https://github.com/Sanahussaina/DSA/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanahussaina/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sanahussaina/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2325-decode-the-message](https://github.com/Sanahussaina/DSA/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sanahussaina/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
