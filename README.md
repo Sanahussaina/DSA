@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Sanahussaina/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Sanahussaina/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Sanahussaina/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Sanahussaina/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sanahussaina/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sanahussaina/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sanahussaina/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sanahussaina/DSA/tree/master/0169-majority-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Sanahussaina/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## String Matching
 |  |
 | ------- |
