@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sanahussaina/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sanahussaina/DSA/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sanahussaina/DSA/tree/master/0434-number-of-segments-in-a-string) |
+| [0796-rotate-string](https://github.com/Sanahussaina/DSA/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sanahussaina/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/Sanahussaina/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Sanahussaina/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanahussaina/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Sanahussaina/DSA/tree/master/0796-rotate-string) |
 ## Counting
 |  |
 | ------- |
